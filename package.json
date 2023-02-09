@@ -1,0 +1,24 @@
+{
+  "name": "area-geo-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rookieKing/area-geo-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rookieKing/area-geo-crawler/issues"
+  },
+  "homepage": "https://github.com/rookieKing/area-geo-crawler#readme",
+  "dependencies": {
+    "mongodb": "^5.0.1",
+    "node-fetch": "^3.3.0"
+  }
+}
